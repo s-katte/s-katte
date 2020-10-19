@@ -32,4 +32,3 @@ I am a Web Developer and Machine Learning enthusiast. Passionate about developin
 
 ---
 
-<img src="./assets/footer.svg">
