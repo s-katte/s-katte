@@ -3,9 +3,11 @@
 <p align="justify">
 I am a Web Developer and Machine Learning enthusiast. Passionate about developing and contributing to new ideas. Experience in Full Stack web development having built various industry grade applications and in machine learning having built various quality projects. 
 </p>
+<!--
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/s-katte/s-katte"></a>
 </p>
+-->
 
 <br />
 
