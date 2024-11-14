@@ -1,7 +1,7 @@
 <img src="./assets/header.svg">
 <h2> Hello Folks 👋 </h2>
 <p align="justify">
-I am a Web Developer and Machine Learning enthusiast. Passionate about developing and contributing to new ideas. Experience in Full Stack web development having built various industry grade applications and in machine learning having built various quality projects. 
+I am a Web Developer. Passionate about developing and contributing to new ideas. Experience in Full Stack web development having built various industry grade applications and in machine learning having built various quality projects. 
 </p>
 <!--
 <p align='center'>
